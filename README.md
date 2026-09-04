@@ -3,7 +3,7 @@ Addes alias of various D&amp;D dice so you can roll. supports d2 d4 d6 d8 d10 d1
 Run it once for temporary alias or add to .bashrc or .zshrc for it to persist. 
 
 
-##example output
+## example output
 $ 1d6
 
 4
